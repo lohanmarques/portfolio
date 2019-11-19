@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="200" height="200" src="./images/profile.png"/> 
+	<img width="200" height="200" src="images/profile.png"/> 
 </p>
 <h1 align="center">Lohan Marques</h1>
 <h3 align="center">Mobile Developer</h3>
@@ -29,5 +29,5 @@ In this app, i built the app and logo design using Sketch and the iOS version wa
 I shared with other developer the build of the API written in NodeJS with a MySQL database hosted at Heroku and the web dashboard written with Angular 4.
   
 <p align="center">
-<img src="images/lbvinhos/lbinhos-home.png" width="230" title="LB Vinhos">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lbvinhos/lbinhos-wine-details.png" width="230" title="LB Vinhos">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lbvinhos/lbvinhos-orders" width="230"title="LB Vinhos">
+<img src="images/lbvinhos/lbvinhos-home.png" width="230" title="LB Vinhos">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lbvinhos/lbvinhos-wine-details.png" width="230" title="LB Vinhos">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lbvinhos/lbvinhos-orders" width="230"title="LB Vinhos">
 </p>
