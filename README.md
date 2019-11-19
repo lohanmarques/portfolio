@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="200" height="200" src="./images/profile.png"/> 
+	<img width="200" height="200" src="images/profile.png"/> 
 </p>
 <h1 align="center">Lohan Marques</h1>
 <h3 align="center">Mobile Developer</h3>
