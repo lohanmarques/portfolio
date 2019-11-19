@@ -21,6 +21,8 @@
 
 # LB Vinhos 
 
+**Current Stage:** Beta Testing 🧪
+
 LB Vinhos is an Android/iOS wine ordering application through a closed list of previously registered customers. With this app its possible to choose through a large variety of wines from different regions of the world. The client can order a wine any time but every two months, approximately, the administrator open a round of exclusively wines where it offers exclusive promotions for a limited time. The app does not operates financial transactions, just take orders and manage them.
 
 In the blog tab, its also possible to follow admin posts about degustation, vintages and other informations about the wine world. To reengagement, the app has 3 types of push notifications: order updates, new posts and new rounds.
