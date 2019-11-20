@@ -32,16 +32,6 @@ In this app, i built the app and logo design using Sketch and the iOS version wa
 I shared with other developer the build of the API written in NodeJS with a MySQL database hosted at Heroku and the web dashboard was written with Angular 4.
 
 <p align="center">
-	<img src="images/lbvinhos/lbvinhos-icon.png" width=80 height=80 title="LB Vinhos">
-</p>
-  
-<p align="center">
-	<img src="images/lbvinhos/lbvinhos-home.png" width="230" title="LB Vinhos">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/lbvinhos/lbvinhos-wine-details.png" width="230" title="LB Vinhos">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/lbvinhos/lbvinhos-orders.png" width="230"title="LB Vinhos">
-</p>
-
-<p align="center">
 	<code>Swift 5</code>&nbsp;&nbsp;
 	<code>Firebase Auth</code>&nbsp;&nbsp;
 	<code>Firebase Storage</code>&nbsp;&nbsp;
@@ -53,4 +43,14 @@ I shared with other developer the build of the API written in NodeJS with a MySQ
 	<code>CoreData</code>&nbsp;&nbsp;
 	<code>NodeJS</code>&nbsp;&nbsp;
 	<code>MySQL</code>
+</p>
+
+<p align="center">
+	<img src="images/lbvinhos/lbvinhos-icon.png" width=80 height=80 title="LB Vinhos">
+</p>
+  
+<p align="center">
+	<img src="images/lbvinhos/lbvinhos-home.png" width="230" title="LB Vinhos">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/lbvinhos/lbvinhos-wine-details.png" width="230" title="LB Vinhos">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/lbvinhos/lbvinhos-orders.png" width="230"title="LB Vinhos">
 </p>
