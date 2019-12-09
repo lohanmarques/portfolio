@@ -21,7 +21,7 @@
 
 # LB Vinhos 
 
-**Current Stage:** Beta Testing 🧪
+**Current Stage:** <a href="https://apps.apple.com/us/app/lb-vinhos/id1433974673">Released</a> :rocket:
 
 LB Vinhos is an Android/iOS wine ordering application through a closed list of previously registered customers. With this app its possible to choose through a large variety of wines from different regions of the world. The client can order a wine any time but every two months, approximately, the administrator open a round of exclusively wines where it offers exclusive promotions for a limited time. The app does not operates financial transactions, just take orders and manage them.
 
@@ -57,7 +57,13 @@ I shared with other developer the build of the API written in NodeJS with a MySQ
 
 # Cartão SUSEP
 
-**Current Stage:** Beta Testing 🧪
+**Current Stage:** Released* :rocket:
+
+> \* Released for internal distribution
+
+Cartão SUSEP is an Android/iOS app to show a business card for a public administration organization.
+
+In this app, i built the app and logo design using Sketch and the iOS version was written in Xcode with Swift 5.
 
 <p align="center">
 	<code>Swift 5</code>&nbsp;&nbsp;
