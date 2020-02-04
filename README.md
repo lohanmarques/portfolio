@@ -42,8 +42,8 @@ In this app, i built the app and logo design using Sketch and the iOS version wa
   
 <p align="center">
 	<img src="images/greader/greader-home.png" width="230" title="GReader">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/greader/greader-categories.png" width="230" title="GReader">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/greader/greader-favorites.png" width="230" title="GReader">
+	<img src="images/greader/greader-details.png" width="230" title="GReader">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="images/greader/greader-categories.png" width="230" title="GReader">
 </p>
 
 # LB Vinhos 
