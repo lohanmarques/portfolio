@@ -5,7 +5,7 @@
 <h3 align="center">Mobile Developer</h3>
 
 <p align="center"> 
-	<a href="https://github.com/MarqSan">
+	<a href="https://github.com/lohanmarques">
 		<img src="https://img.shields.io/static/v1?label=Github&message=MarqSan&color=black">	
 	</a>
 	<a href="https://www.linkedin.com/in/lohan-marques/">
