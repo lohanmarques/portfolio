@@ -81,28 +81,3 @@ I shared with other developer the build of the API written in NodeJS with a MySQ
 	<img src="images/lbvinhos/lbvinhos-wine-details.png" width="230" title="LB Vinhos">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="images/lbvinhos/lbvinhos-orders.png" width="230" title="LB Vinhos">
 </p>
-
-# Cartão SUSEP
-
-**Current Stage:** Released* :rocket:
-
-> \* Released for internal distribution
-
-Cartão SUSEP is an Android/iOS app to show a business card for a public administration organization.
-
-In this app, i built the app and logo design using Sketch and the iOS version was written in Xcode with Swift 5.
-
-<p align="center">
-	<code>Swift 5</code>&nbsp;&nbsp;
-	<code>CoreImage</code>&nbsp;&nbsp;
-</p>
-
-<p align="center">
-	<img src="images/cartaosusep/cartaosusep-icon.png" width=80 height=80 title="Cartao SUSEP">
-</p>
-  
-<p align="center">
-	<img src="images/cartaosusep/cartaosusep-empty.png" width="230" title="Cartao SUSEP">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/cartaosusep/cartaosusep-card.png" width="230" title="Cartao SUSEP">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="images/cartaosusep/cartaosusep-form.png" width="230" title="Cartao SUSEP">
-</p>
