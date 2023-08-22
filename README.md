@@ -1,8 +1,8 @@
 <p align="center">
-	<img width="200" height="200" src="images/profile.jpg"/> 
+	<img width="200" height="200" src="images/profile.png"/> 
 </p>
 <h1 align="center">Lohan Marques</h1>
-<h3 align="center">Mobile Developer</h3>
+<h3 align="center">Senior iOS Engineer</h3>
 
 <p align="center"> 
 	<a href="https://github.com/lohanmarques">
