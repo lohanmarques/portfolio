@@ -19,6 +19,33 @@
 	</a>
 </p>
 
+# Grato
+
+**Current Stage:** <a href="https://apps.apple.com/app/id6451126734" target="_blank">Delivered</a> :rocket:
+
+GReader is an iOS articles reader app made for a job application at a major tech company.
+
+The app has a favorites tab to list favorite articles. The app also have dark mode support and haptics feedback on the favorite button icon.
+
+In this app, i built the app and logo design using Sketch and the iOS version was written in Xcode with Swift 5 using VIPER architecture.
+
+<p align="center">
+    <code>Swift 5</code>&nbsp;&nbsp;
+    <code>Alamofire</code>&nbsp;&nbsp;
+    <code>CoreData</code>&nbsp;&nbsp;
+    <code>Dark Mode</code>&nbsp;&nbsp;
+</p>
+
+<p align="center">
+    <img src="images/greader/greader-icon.png" width=80 height=80 title="GReader">
+</p>
+  
+<p align="center">
+    <img src="images/greader/greader-home.png" width="230" title="GReader">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/greader/greader-details.png" width="230" title="GReader">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/greader/greader-categories.png" width="230" title="GReader">
+</p>
+
 # G Reader
 
 **Current Stage:** Delivered :rocket:
@@ -48,7 +75,7 @@ In this app, i built the app and logo design using Sketch and the iOS version wa
 
 # LB Vinhos 
 
-**Current Stage:** <a href="https://apps.apple.com/us/app/lb-vinhos/id1433974673" target="_blank">Released</a> :rocket:
+**Current Stage:** <a href="https://apps.apple.com/us/app/lb-vinhos/id1433974673" target="_blank">Released but Removed From Store</a> :rocket:
 
 LB Vinhos is an Android/iOS wine ordering application through a closed list of previously registered customers. With this app its possible to choose through a large variety of wines from different regions of the world. The client can order a wine any time but every two months, approximately, the administrator open a round of exclusively wines where it offers exclusive promotions for a limited time. The app does not operates financial transactions, just take orders and manage them.
 
