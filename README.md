@@ -1,9 +1,3 @@
-<p align="center">
-	<img width="200" height="200" src="images/profile.png"/> 
-</p>
-<h1 align="center">Lohan Marques</h1>
-<h3 align="center">Senior iOS Engineer</h3>
-
 <p align="center"> 
 	<a href="https://github.com/lohanmarques">
 		<img src="https://img.shields.io/static/v1?label=Github&message=MarqSan&color=black">	
