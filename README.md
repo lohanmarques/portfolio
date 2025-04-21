@@ -13,11 +13,11 @@
 	</a>
 </p>
 
-# Grato - Gratitude Journal
+# Afeto - Gratitude Journal
 
 **Current Stage:** <a href="https://apps.apple.com/app/id6451126734" target="_blank">Delivered</a> :rocket:
 
-Grato is a Gratitude Journal designed to be simple to use and be your daily place to express your emotions.
+Afeto is a Gratitude Journal designed to be simple to use and be your daily place to express your emotions.
 
 This app allows users to post about their feelings and share highlights of thoses posts at Instagram or using other social medias. 
 All of that with Face ID/Touch ID protection to keep their posts private and Dark Mode option.
@@ -52,7 +52,7 @@ All feedback is welcome and any suggestions can be sent to me by email or any so
 </p>
 
 <p align="center">
-    <img src="images/grato/grato-icon.png" width=80 height=80 title="Grato Icon">
+    <img src="images/grato/grato-icon.png" width=80 height=80 title="Afeto Icon">
 </p>
   
 <p align="center">
